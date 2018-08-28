@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.aboo-logo {
+  width: 31px;
+  height: 40px;
+}
+.bg-aboo{
+  background-color: #f6655e;
+}
